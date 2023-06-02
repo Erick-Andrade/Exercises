@@ -4,6 +4,7 @@ using namespace std;
 
 int main() {
 
+    // Exercício: Flíper
     int p, r;
     char resposta = 'C';
     cin >> p >> r;
